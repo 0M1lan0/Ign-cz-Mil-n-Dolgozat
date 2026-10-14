@@ -1,3 +1,16 @@
 footer{
-    background-color: rgb(180, 166, 166);
+    background-color: rgb(214, 211, 211);
+    padding: 5px;
+}
+header{
+    background-color: rgb(75, 121, 96);
+    color: white;
+    padding: 7px;
+}
+div{
+
+}
+body{
+    max-width: 1000px;
+    margin: auto;
 }

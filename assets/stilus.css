@@ -1,6 +1,10 @@
+*{
+
+}
 header{
     background-color: rgb(75, 121, 96);
     color: white;
+    padding: 7px;
 }
 
 nav{
@@ -9,15 +13,14 @@ nav{
 
 th{
     background-color: rgb(75, 121, 96);
+    padding: 10px;
 }
-
-td{
+table, th, td{
     border: 1px solid grey;
     border-collapse: collapse;
+    padding: 12px;
 }
-h2{
-
-}
-h3{
-
+body{
+    max-width: 1000px;
+    margin: auto;
 }
