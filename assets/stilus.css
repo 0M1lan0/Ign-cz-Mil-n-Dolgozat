@@ -1,5 +1,5 @@
 header{
-    background-color: rgb(25, 141, 77);
+    background-color: rgb(75, 121, 96);
     color: white;
 }
 
@@ -7,6 +7,17 @@ nav{
 
 }
 
-table{
-    
+th{
+    background-color: rgb(75, 121, 96);
+}
+
+td{
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+h2{
+
+}
+h3{
+
 }
