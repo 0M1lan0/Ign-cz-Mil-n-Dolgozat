@@ -6,21 +6,39 @@ header{
     color: white;
     padding: 7px;
 }
-
-nav{
-
-}
-
 th{
     background-color: rgb(75, 121, 96);
     padding: 10px;
+    color: white;
 }
 table, th, td{
     border: 1px solid grey;
     border-collapse: collapse;
-    padding: 12px;
+    padding: 15px;
 }
 body{
     max-width: 1000px;
     margin: auto;
+}
+.zold{
+    background-color: rgb(188, 223, 204);
+}
+footer{
+    background-color: rgb(214, 211, 211);
+    padding: 5px;
+}
+table, td{
+      color: rgb(74, 78, 74);
+}
+h2{
+    color: rgb(49, 75, 49);
+}
+.fontos{
+    color: rgb(74, 78, 74);
+}
+h3{
+   color: rgb(49, 75, 49); 
+}
+@media screen and (max-width: 700px){
+    
 }
